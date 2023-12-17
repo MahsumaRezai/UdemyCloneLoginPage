@@ -5,3 +5,11 @@
     background: white;
     border-bottom: 1px solid #e6e6e6;
 }
+.headimage {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding:  10px 20px;
+    margin: auto;
+    
+}
