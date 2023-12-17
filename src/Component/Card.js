@@ -4,7 +4,7 @@ const Card = (props) => {
     return (
         <Fragment>
             <div className={classes.card}>
-                {props.childern}
+                {props.children}
             </div>
 
         </Fragment>

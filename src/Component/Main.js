@@ -8,6 +8,12 @@ const Main = (props) => {
         <Fragment>
             <Card>
                 <form className={classes.main}>
+                    <h2 className={classes.text}>Login</h2>
+                    <div className={classes.inputs}>
+                        <input className={classes.valueinput} />
+                        <input className={classes.valueinput} />
+
+                    </div>
 
                 </form>
             </Card>

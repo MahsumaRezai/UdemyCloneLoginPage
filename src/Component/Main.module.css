@@ -4,3 +4,19 @@
     justify-content: center;
     align-items: center;
 }
+.inputs {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1px
+}
+.valueinput {
+    width: 300px;
+    background: #ededed;
+    border: 1px solid #e6e6e6;
+    min-height: 40px;
+
+    
+
+}
