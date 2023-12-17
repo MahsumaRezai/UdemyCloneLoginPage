@@ -32,6 +32,15 @@ const Main = (props) => {
 
                     </div>
 
+                    <div className={classes.logout}>
+                        <div>
+                            <p className={classes.text}> Not a Member Yet?</p>
+
+
+                        </div>
+                        <button className={classes.log} >Signin </button>
+                    </div>
+
                 </form>
             </Card>
 

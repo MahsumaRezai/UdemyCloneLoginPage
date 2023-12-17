@@ -47,6 +47,15 @@
     padding: 5px
    
 }
+.text {
+    text-align: left;
+}
+.logout {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center
+}
 .para {
     font-size: 14px;
 }
