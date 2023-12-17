@@ -19,8 +19,26 @@
     padding: 10px;
     font-size: 18px;
 
+
     
 
+}
+.login {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.log {
+    width: 300px;
+    min-height: 40px;
+    background:#1a1a1a;
+    border-radius: 5px;
+    color: white;
+    font-size: 17px;
+
+    
 }
 .text {
     padding-left: 50px;

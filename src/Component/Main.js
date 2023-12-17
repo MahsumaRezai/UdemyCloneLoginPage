@@ -14,6 +14,9 @@ const Main = (props) => {
                         <input className={classes.valueinput} placeholder="Password" />
 
                     </div>
+                    <div className={classes.login}>
+                        <button className={classes.log} >login </button>
+                    </div>
 
                 </form>
             </Card>
