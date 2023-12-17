@@ -1,12 +1,16 @@
 
 import { Fragment } from 'react';
+import Card from './Card';
 
 const Main = (props) => {
     return (
         <Fragment>
-            <form>
-                
-            </form>
+            <Card>
+                <form>
+
+                </form>
+            </Card>
+
 
 
 
