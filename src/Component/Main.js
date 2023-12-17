@@ -22,9 +22,13 @@ const Main = (props) => {
                             <input type="checkbox"></input>
                             <span className={classes.para}>Remember Me</span>
                         </div>
-                        <div>
+                        <div >
                             <span className={classes.para}>Forgot your password</span>
                         </div>
+
+
+                    </div>
+                    <div className={classes.paras}>
 
                     </div>
 
