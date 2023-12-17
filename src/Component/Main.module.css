@@ -1,8 +1,7 @@
 .main {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
+   
 }
 .inputs {
     display: flex;
@@ -19,4 +18,8 @@
 
     
 
+}
+.text {
+    padding-left: 50px;
+    
 }
