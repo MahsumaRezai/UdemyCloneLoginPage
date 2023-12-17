@@ -17,6 +17,16 @@ const Main = (props) => {
                     <div className={classes.login}>
                         <button className={classes.log} >login </button>
                     </div>
+                    <div className={classes.checks}>
+                        <div className={classes.button}>
+                            <input type="checkbox"></input>
+                            <span className={classes.para}>Remember Me</span>
+                        </div>
+                        <div>
+                            <span className={classes.para}>Forgot your password</span>
+                        </div>
+
+                    </div>
 
                 </form>
             </Card>

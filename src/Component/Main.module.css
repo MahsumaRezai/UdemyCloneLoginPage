@@ -37,8 +37,24 @@
     border-radius: 5px;
     color: white;
     font-size: 17px;
-
-    
+}
+.checks {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+   
+}
+.para {
+    font-size: 14px;
+}
+.button {
+    display: flex;
+    flex-direction: row;
+    gap: 5px; 
+    justify-items: center;
+    align-items: center
 }
 .text {
     padding-left: 50px;
