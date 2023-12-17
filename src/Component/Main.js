@@ -31,14 +31,14 @@ const Main = (props) => {
                     <div className={classes.paras}>
 
                     </div>
+                    <p className={classes.title}> Not a Member Yet?</p>
 
                     <div className={classes.logout}>
-                        <div>
-                            <p className={classes.text}> Not a Member Yet?</p>
+                        <div className={classes.texts} >
 
 
                         </div>
-                        <button className={classes.log} >Signin </button>
+                        <button className={classes.log} >Sign Up </button>
                     </div>
 
                 </form>

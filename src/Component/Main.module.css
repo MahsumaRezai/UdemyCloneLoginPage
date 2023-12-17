@@ -38,6 +38,9 @@
     color: white;
     font-size: 17px;
 }
+.log:hover {
+    background: #333333
+}
 .checks {
     display: flex;
     flex-direction: row;
@@ -47,8 +50,19 @@
     padding: 5px
    
 }
-.text {
+.texts {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items:flex-start
+}
+.title {
     text-align: left;
+    padding-left: 30px;
+    margin: 10px;
+    color: #1a1a1a;
+    font-size: 16px;
+    font-weight: bold;
 }
 .logout {
     display: flex;
