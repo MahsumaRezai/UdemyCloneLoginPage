@@ -10,8 +10,8 @@ const Main = (props) => {
                 <form className={classes.main}>
                     <h2 className={classes.text}>Login</h2>
                     <div className={classes.inputs}>
-                        <input className={classes.valueinput} />
-                        <input className={classes.valueinput} />
+                        <input className={classes.valueinput} placeholder="Username" />
+                        <input className={classes.valueinput} placeholder="Password" />
 
                     </div>
 

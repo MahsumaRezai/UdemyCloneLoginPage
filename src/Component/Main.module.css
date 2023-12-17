@@ -1,6 +1,7 @@
 .main {
     display: flex;
     flex-direction: column;
+    gap: 10px
    
 }
 .inputs {
@@ -15,11 +16,13 @@
     background: #ededed;
     border: 1px solid #e6e6e6;
     min-height: 40px;
+    padding: 10px;
+    font-size: 18px;
 
     
 
 }
 .text {
     padding-left: 50px;
-    
+
 }
