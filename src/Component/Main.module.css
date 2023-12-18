@@ -9,7 +9,6 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 1px
 }
 .valueinput {
     width: 300px;
@@ -22,6 +21,10 @@
 
     
 
+}
+.valueinput:focus {
+    background: grey;
+    color: white
 }
 .login {
     display: flex;

@@ -3,9 +3,9 @@
   margin: 0%;
   padding: 0%;
 }
-body {
+.body {
   background:url('./Component/image/udemy.png');
-  height: max-content;
+  height: 500px;
   font-family: sans-serif;
   background-repeat: no-repeat;
   background-attachment: fixed;
